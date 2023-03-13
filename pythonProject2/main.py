@@ -28,7 +28,7 @@ match operator:
     case "*":
         print(float(num1)*float(num2))
     case "**":
-        print(float(num1) ** float(num2))
+        print(float(num1)**float(num2))
     case _:
         print("niepoprawna operacja")
 
