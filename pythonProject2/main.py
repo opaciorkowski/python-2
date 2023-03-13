@@ -33,6 +33,7 @@ match operator:
         print("niepoprawna operacja")
 
 #########################################
+##uzyj dictionary
 question0 = input("Jak masz na imię oraz nazwisko?")
 question1 = input("Najczęstszym sposobem spędzania wolnego czasu jest dla Ciebie:")
 question2 = input("W jakich okolicznościach czytasz książki najczęściej?")
