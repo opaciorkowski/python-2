@@ -1,38 +1,3 @@
-a = "Python 2023"
-b = "Python 2023"
-c = "Python 2023"
-print("czy a==b? ",a==b)
-print("czy b==c? ",b==c)
-print("a "+hex(id(a)), type(a))
-print("b "+hex(id(b)), type(b))
-print("c "+hex(id(c)), type(c))
-
-print("punkt 3")
-c = "Java 11"
-print("czy a==b? ",a==b)
-print("czy b==c? ",b==c)
-print("a "+hex(id(a)), type(a))
-print("b "+hex(id(b)), type(b))
-print("c "+hex(id(c)), type(c))
-#########################################
-num1 = input("podaj pierwsza liczbe\n")
-num2 = input("podaj druga liczbe\n")
-operator = input("podaj typ operacji (+, -, /, *, **)\n")
-match operator:
-    case "+":
-        print(float(num1)+float(num2))
-    case "-":
-        print(float(num1)-float(num2))
-    case "/":
-        print(float(num1)/float(num2))
-    case "*":
-        print(float(num1)*float(num2))
-    case "**":
-        print(float(num1)**float(num2))
-    case _:
-        print("niepoprawna operacja")
-
-#########################################
 ##uzyj dictionary
 question0 = input("Jak masz na imię oraz nazwisko?")
 question1 = input("Najczęstszym sposobem spędzania wolnego czasu jest dla Ciebie:")
