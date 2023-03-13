@@ -8,6 +8,6 @@ Pod trzecią zmienną przypisz napis „Java 11”
 Ponownie wykonaj podpunkt a i b
 2. Napisz skrypt kalkulator, który pobierze od użytkownika 2 liczby a następnie po podaniu 
 odpowiedniego operatora wykona adekwatną operację i wyświetli wynik.
-3.Utwórz skrypt, która pobierze od użytkownika odpowiedzi na pytania – ankieta z pytaniami jak w
+3. Utwórz skrypt, która pobierze od użytkownika odpowiedzi na pytania – ankieta z pytaniami jak w
 przykładzie (pytania 1-7) oraz pytaniem o imię i nazwisko:
 https://www.webankieta.pl/wzor-ankiety/ankieta-czytelnicza
