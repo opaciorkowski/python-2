@@ -46,5 +46,5 @@ print("odpowiedz:", q1)
 print("=======================================================")
 for i in range(len(answers)):
     print("pytanie:", questions[i]["question"])
-    print("odpowiedz:", questions[i]["answer"][int(answers[1]) - 1])
+    print("odpowiedz:", questions[i]["answer"][int(answers[i]) - 1])
     print("=======================================================")
